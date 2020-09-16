@@ -1,0 +1,2 @@
+# ddostermux
+Termux Ddos script
