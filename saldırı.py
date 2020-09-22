@@ -1,9 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-# by HaCkErGaMeR (Kasptro)
-# by TheHackerz
-# by Kızıl Tim
+# by THTHackerGamer
 
 
 from queue import Queue
